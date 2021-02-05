@@ -1,0 +1,29 @@
+U:\Courses\Programming 1\03 Variables and Math Ops\Variable Notes\Variable Notes\bin\Debug\Variable Notes.exe
+U:\Courses\Programming 1\03 Variables and Math Ops\Variable Notes\Variable Notes\bin\Debug\Variable Notes.pdb
+U:\Courses\Programming 1\03 Variables and Math Ops\Variable Notes\Variable Notes\bin\Debug\Variable Notes.xml
+U:\Courses\Programming 1\03 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable_Notes.Form1.resources
+U:\Courses\Programming 1\03 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable_Notes.Resources.resources
+U:\Courses\Programming 1\03 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable Notes.exe
+U:\Courses\Programming 1\03 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable Notes.xml
+U:\Courses\Programming 1\03 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable Notes.pdb
+U:\Courses\Programming 1\03 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable Notes.vbproj.GenerateResource.Cache
+C:\Users\foxrw\Google Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable Notes.exe
+C:\Users\foxrw\Google Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable Notes.xml
+C:\Users\foxrw\Google Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable Notes.pdb
+C:\Users\foxrw\Google Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\bin\Debug\Variable Notes.exe
+C:\Users\foxrw\Google Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\bin\Debug\Variable Notes.pdb
+C:\Users\foxrw\Google Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\bin\Debug\Variable Notes.xml
+C:\Users\foxrw\Google Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable_Notes.Form1.resources
+C:\Users\foxrw\Google Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable_Notes.Resources.resources
+C:\Users\foxrw\Google Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable Notes.vbproj.GenerateResource.Cache
+G:\My Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\bin\Debug\Variable Notes.exe
+G:\My Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\bin\Debug\Variable Notes.pdb
+G:\My Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\bin\Debug\Variable Notes.xml
+G:\My Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable Notes.vbprojResolveAssemblyReference.cache
+G:\My Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable_Notes.Form1.resources
+G:\My Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable_Notes.Resources.resources
+G:\My Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable Notes.vbproj.GenerateResource.Cache
+G:\My Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable Notes.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable Notes.exe
+G:\My Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable Notes.xml
+G:\My Drive\Courses\CP1\02 Variables and Math Ops\Variable Notes\Variable Notes\obj\Debug\Variable Notes.pdb
